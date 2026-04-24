@@ -1,0 +1,21 @@
+order_date,region,product,category,segment,sales,profit,quantity,discount
+2025-01-03,North,Laptop Pro,Electronics,Corporate,120000,18000,8,0.05
+2025-01-05,South,Office Chair,Furniture,Consumer,45000,5000,15,0.10
+2025-01-09,West,Printer X,Electronics,Home Office,38000,4200,9,0.08
+2025-01-12,East,Desk Plus,Furniture,Corporate,52000,7600,11,0.07
+2025-01-18,North,Phone Max,Electronics,Consumer,97000,15000,20,0.04
+2025-02-02,South,Notebook Pack,Stationery,Consumer,12000,2200,60,0.15
+2025-02-04,West,Monitor HD,Electronics,Corporate,64000,9800,13,0.06
+2025-02-10,East,Storage Box,Furniture,Home Office,16000,1800,25,0.12
+2025-02-15,North,Tablet Air,Electronics,Consumer,71000,10200,14,0.05
+2025-02-22,South,Whiteboard,Office Supplies,Corporate,18000,2600,17,0.09
+2025-03-01,West,Laptop Pro,Electronics,Corporate,132000,20100,9,0.05
+2025-03-06,East,Desk Plus,Furniture,Consumer,49000,6400,10,0.09
+2025-03-09,North,Printer X,Electronics,Home Office,41000,4700,10,0.08
+2025-03-14,South,Office Chair,Furniture,Corporate,47000,5900,16,0.10
+2025-03-18,West,Phone Max,Electronics,Consumer,105000,16800,22,0.04
+2025-03-25,East,Notebook Pack,Stationery,Consumer,14500,2500,72,0.14
+2025-04-02,North,Monitor HD,Electronics,Corporate,69000,11000,14,0.06
+2025-04-08,South,Storage Box,Furniture,Home Office,17000,2100,28,0.11
+2025-04-12,West,Tablet Air,Electronics,Consumer,76000,11200,16,0.05
+2025-04-19,East,Whiteboard,Office Supplies,Corporate,19500,3100,19,0.09
